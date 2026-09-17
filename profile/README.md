@@ -44,7 +44,7 @@ I design and build production-grade AI systems on solid data and cloud foundatio
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saptarshi-sengupta)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saptarshisengupta/)
 [![GitHub followers](https://img.shields.io/github/followers/TAlchemist?style=for-the-badge&color=00D9FF&labelColor=0d1117)](https://github.com/saptarshi-ai)
 
 </div>
